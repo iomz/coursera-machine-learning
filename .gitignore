@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+readme.txt
+Makefile
+lib
+token.mat
